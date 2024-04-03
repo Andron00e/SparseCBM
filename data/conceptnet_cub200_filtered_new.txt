@@ -1,0 +1,926 @@
+3
+banana
+bay
+fox
+frog
+garden
+house
+knive
+lawn
+leaf
+ledge
+living room
+nail
+needle
+razor
+street
+tree
+tree is a plant, and
+wall
+acadian
+alberta
+aleutian islands
+alexandria
+algonquian
+american
+orange
+anaheim
+antarctic ocean
+apalachicola
+apples
+arafura sea
+arctic archipelago
+arkansas
+armed forces day
+australasia
+austronesia
+axes
+baffin island
+bakersfield
+baltimore
+bananas
+barstow
+baton rouge
+benjamin franklin bridge
+bering sea
+berkeley
+beverly hills
+big sur
+biscayne bay
+biscayne national park
+bohemian
+bowling green
+brake lights
+british columbia
+butter
+calgary
+california
+caloosahatchee river
+canada
+cans
+cape canaveral
+carolina
+carrots
+caspian
+channel islands national park
+chattanooga
+cheddar cheese
+chula vista
+clinch river
+colorado desert
+columbia
+commonwealth day
+coral sea
+cranberries
+cumberland
+czech republic
+daisies
+daytona beach
+dead grass
+death valley
+deep south
+donner pass
+eating
+escondido
+eureka
+european
+everglades
+everglades national park
+eyes
+fish
+florida
+fort lauderdale
+fort myers
+frankfort
+french canadian
+fresno
+gainesville
+georgia
+golden gate
+great lakes
+green
+gregorian calendar month
+guadalupe island
+gulf states
+gulf of alaska
+gulf of tehuantepec
+harris
+healthy grass
+hudson bay
+independence hall
+indian monetary unit
+inland sea
+iran
+jackson
+jacksonville
+japan
+johns hopkins
+johnson city
+key west
+kings canyon national park
+kissimmee river
+klamath
+knoxville
+labrador-ungava peninsula
+lafayette
+lake tahoe
+lassen volcanic national park
+laurentian highlands
+lexington
+lincoln
+long beach
+los angeles
+louisiana
+louisville
+mackenzie
+malay archipelago
+mammoth cave national park
+manitoba
+many other things
+maritime provinces
+maryland
+may
+may day
+melbourne
+memorial day
+memphis
+mental illness
+miami
+miami beach
+middle english
+milk
+missouri
+mojave
+monroe
+monterey
+morgan city
+morgantown
+most leaves
+mother's day
+nashville
+nebraska
+new guinea
+new orleans
+new world blackbird
+new world flycatcher
+new world warbler
+new zealand
+newfoundland and labrador
+niagara
+north america
+north carolina
+north pacific
+northwest territories
+not all islands
+nunavut
+oakland
+oceania
+okeechobee
+okefenokee swamp
+oklahoma
+ontario
+orange
+orlando
+osaka bay
+ottawa river
+ouachita
+owensboro
+pacific coast
+paducah
+pakistani monetary unit
+palau
+palm beach
+palo alto
+panama city
+pasadena
+pennsylvania
+pensacola
+philadelphia
+philippines
+pimlico
+puget sound
+pumpkins
+purple
+quebec
+red
+redding
+redwood national park
+ripe strawberries
+riverside
+russian river
+sacramento
+sacramento river
+saint johns
+saint lawrence
+salton sea
+san andreas fault
+san bernardino
+san diego
+san fernando valley
+san francisco
+san joaquin river
+san joaquin valley
+san jose
+san juan mountains
+san mateo
+san pablo
+santa ana
+santa barbara
+santa catalina
+santa clara
+santa cruz
+sarasota
+saskatchewan
+savannah
+schoolbuses
+scissors
+scotland's western isles
+scottish seabird
+sea of japan
+sea of okhotsk
+sequoia national park
+shadows
+shasta
+shreveport
+sierra nevada
+silicon valley
+siouan
+some cars
+some flowers
+some hallways
+some leaves
+some sheet
+some tomatoes
+some wines
+south
+south africa
+south china sea
+south pacific
+southwest
+soviet union
+st. augustine
+st. petersburg
+tallahassee
+tampa bay
+tasman sea
+tennessee
+texas
+clothing material neon
+fox
+hardhat
+pupil of a human eye
+sky
+stairway
+three
+ticks
+tires
+trees
+university of nebraska
+utah
+vacavile
+vegetables
+volcano islands
+wake island
+walt whitman bridge
+weeds
+western
+wilson
+wyoming
+yellow sea
+yosemite national park
+yukon
+cd
+ketucky field
+north sea oilfield
+acorn
+animal
+back yard
+balcony
+bald eagle
+basement
+bath
+bathroom
+beam
+beaver
+bed
+bee
+bird
+boater
+bone
+box
+brick
+brick row house
+brother
+burrow
+cactus
+cage
+carpet
+cat
+cave
+check
+checkbook holder
+cheque
+citizen of america
+citrus fruit
+city
+city in pennsylvania
+city in maryland
+cliff
+clock
+coin
+color
+colour and a fruit
+computer
+condominium
+corner shop
+couch
+country
+cow
+crab
+cubicle
+deck
+desert
+diamond
+dollar
+door
+door with a lock
+dresser
+emerald
+evergreen tree
+ferret
+ficus
+fire extinguisher
+fisherman
+flare gun
+floor
+form of transportation
+forrest
+fortune
+fox hole
+fox hunt
+freeway
+french horn
+friend's wedding
+fuel
+galley
+government
+grain to it
+grape
+hand
+hardware store
+heater
+herring
+herringbone
+jar
+jellyfish
+jewel
+jukebox
+kitchen
+lake
+lamp
+lantern
+library
+line
+linen closet
+lion
+lizard
+long tail
+lot of plants
+low-lying area
+machine
+mammoth
+marsh
+material
+mean of transport
+metaphor for writing
+money
+mood
+mouse
+net
+number
+painting
+park
+payment counter
+peel
+pet
+piece of jewelry
+pirate
+place and a thing
+place in north america
+plant
+polar bear
+pond
+pool
+precious stone
+primary colour
+puddle of water
+ranch
+ring
+river
+rock
+roof
+rose
+ruby
+rudder
+rural area
+safe activity
+season
+seasonal condition
+shark
+shelter
+shorter wavelength than red
+sink
+sleeping man
+small, common songbird
+snake
+snowflake
+social activity
+solid
+song
+squirrel
+stall
+state
+state park
+stone often
+store
+storm
+stove
+stream
+swamp
+sword
+table
+tack
+tank
+telephone pole
+tern
+terrace
+train tracks
+trunk
+tv
+university
+vehicle
+ventilation system
+very cold season
+voice
+washing machine
+way
+weasel
+window
+wood
+yard
+zoo
+achiever
+achromatic color
+adult actor
+aircraft
+albatross
+alive
+account book
+air traffic controller
+apple
+apple tree
+apply tree
+aquarium
+aromatic wood
+attic
+english hunt
+evening
+expert
+independent country
+insect that hops
+interior area
+iron
+uncle
+uncommon color for food
+anas
+angiospermous tree
+ani
+anna
+any house
+apodiform bird
+apple
+aquatic bird
+area
+area unit
+auk
+backed
+bargain
+bark
+barn
+bell
+billed
+bird genus
+black
+blackbird
+blade
+blow
+blue
+boat
+boat whistle
+body of water
+body part
+bones
+broken glass
+brown
+bugs
+bunting
+cadillac
+callus
+canine
+cape
+capped
+cargo
+cash
+cedar
+centrospermae order
+chat
+chestnut
+chew
+chromatic color
+chuck
+citrus
+clay
+clayish soil region
+cloak
+clothing
+clupeid fish
+coastal diving bird
+cocktail
+codicil
+cold
+cold case
+colder than summer
+coloring
+coloured
+columbiform bird
+comics character
+common
+common sage
+community
+company
+compartment
+compound lever
+congress hall
+conifer
+consumption
+conversation
+cookies
+coraciiform bird
+corn
+corundom
+corvine bird
+creeper
+crop
+crown
+cry
+cuckoo
+cuculiform bird
+cut of beef
+dark
+day
+dentine
+depression
+dessert
+dicotyledon
+digit
+dog days
+domestic sheep
+doors
+drill
+driving to home
+drupe
+duck
+dwelling
+earth
+eastern
+ecclesiastical attire
+edible fish
+edible fruit
+edible nut
+electric drill
+elmer's glue
+england
+environmentalist
+eukaryotic organism
+eurasian
+fabric
+fabric softener
+faced
+farm building
+farmland
+feature
+federal state
+field
+finch
+fins
+flash
+flexibility
+flicker
+flight maneuver
+flotation gear
+flower
+fluffy
+food
+food worker
+four legs
+fox
+foxhunt
+fruit
+funds
+fur
+furniture
+gaviiform seabird
+geographical area
+geological formation
+getting stabbed with a knife
+gills
+given name
+goatsucker
+golf club
+golf course
+grackle
+grass
+grasshopper
+grassland
+gray
+great
+groove
+grosbeak
+gull
+hay
+hayloft
+heavy
+herb
+hindrance
+hip
+holding device
+horse
+human adult
+hummingbird
+idler
+if they are rotten they
+illumination
+important to stay alive
+in a storm, the sky
+in north america
+indigo
+inhabitant
+ink
+insect repellant
+instrument
+invertebrate
+jaeger
+jaw
+jay
+junco
+key
+kids
+kingbird
+kingfisher
+know as music city
+land
+larid
+lark
+lash
+lateral line
+lathe
+leafs
+leaves on its branches
+legal document
+legislator
+legislature
+linear unit
+loon
+low plasticity soil region
+lycaenid
+lyric
+magnolia
+mail
+maker
+malevolent program
+man
+manufacturer
+many beaches
+matter
+meadow
+meadowlark
+meat-eating
+mentor
+mid-may
+midwinter
+migratory bird
+mild winter weather
+milt
+minor terrain feature
+monday
+music
+musical composition
+musical notation
+my car
+my name
+myrtle
+nausea
+nelson
+night
+nobility
+nonconformist
+north of the united states
+not currently
+nut
+nutcracker
+nuthatch
+nuts
+odd-toed ungulate
+olive
+olive tree
+orange peel
+orchard
+organization
+orthopterous insect
+oscine
+palm
+parakeet
+parrot
+passerine
+peach
+pelagic bird
+pelecaniform seabird
+pelican
+periwinkle
+person
+petrel
+pewee
+physical phenomenon
+piciform bird
+picture
+pigeon
+pigment
+pine
+pinecone
+pink
+pipit
+plane figure
+platform
+plumbing
+podicipitiform seabird
+poetry
+pollinator
+pontiac
+puffin
+purpose
+razors
+refrain
+region
+relish
+reserve
+retirees
+rhinoceros
+ridge
+rind
+rock
+rooms
+roots
+rope
+saddle horse
+sadness
+sage
+sails
+saltwater fish
+sandwich
+sap
+satisfying
+scales
+screw
+sea
+sea duck
+sea turtle
+seabird
+seashore
+service
+sewing needle
+sex
+shade
+sharp
+shiny
+ship
+shore bird
+shoulder
+shrike
+shrub
+side of beef
+singer
+site
+snow
+soccer player
+software
+soil
+some cats
+some closets
+sound
+sparse canopy closure
+stairs
+starling
+state where people go fishing
+stock
+story
+striped
+studebaker
+study
+stump
+succulent
+summer
+summer solstice
+sunset
+sunshine
+swallow
+sweet
+tail fin
+tanager
+pacific
+u.s.
+arctic
+artic
+bank
+bath tub
+bottom of the sea
+color of grass
+countryside
+ground
+harbor
+hen house
+house
+low lands
+market
+moon
+mountains
+ocean
+prairie
+savannah
+seaside
+shy
+stump of a tree
+surface of the earth
+undergrowth
+water
+wild
+winter
+theater of war
+thenar
+thorns
+thrasher
+thrush
+time of life
+time period
+toilet
+toroid
+towhee
+transparent gem
+tropical
+trouble
+tundra
+twilight
+two doors
+two less than five
+tyrannid
+unenlightenment
+unpleasant person
+vascular plant
+vault
+vermin
+vertebrate
+vesper
+vessel
+violet
+vireo
+virginia
+vocal music
+warbler
+warmer than north dakota
+water resistant
+water skiies
+waterfowl
+wet dirt
+wetland
+wheat
+where many fruit trees grow
+whip
+white
+widow
+will
+windows
+wire
+woman
+wooded area
+woodpecker
+worm
+worm gear
+wren
+wrestler
+wrestling hold
+yellow
+your bedroom
+your family
+your finger
+your house
+your own stuff
+your possessions
