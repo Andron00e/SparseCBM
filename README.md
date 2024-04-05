@@ -128,3 +128,13 @@ draw_bottleneck(image, scores, k=10, concepts=concepts, draw_probs=False)
 ```
 **We believe the details provided are clear enough to reproduce the main findings of our paper.**
 
+```bib
+@misc{semenov2024sparse,
+      title={Sparse Concept Bottleneck Models: Gumbel Tricks in Contrastive Learning}, 
+      author={Andrei Semenov and Vladimir Ivanov and Aleksandr Beznosikov and Alexander Gasnikov},
+      year={2024},
+      eprint={2404.03323},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
