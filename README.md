@@ -1,5 +1,6 @@
 # Supplementary code for "Sparse Concept Bottleneck Models: Gumbel tricks in Contrastive Learning"
 [![arXiv](https://img.shields.io/badge/arXiv-2401.06766-b31b1b.svg)](https://arxiv.org/abs/2404.03323)
+[![BibTeX](https://img.shields.io/badge/BibTeX-Citation-green)](https://arxiv.org/bibtex/2404.03323)
 
 ## How to install
 ```bash
